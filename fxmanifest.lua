@@ -1,0 +1,68 @@
+fx_version 'adamant'
+game 'gta5'
+this_is_a_map 'yes'
+
+file 'data/gabz_timecycle_mods_1.xml'
+file 'data/gabz_mrpd_timecycle.xml'
+file 'interiorproxies.meta'
+file 'stream/drugshells/shellpropsv7.ytyp'
+file 'stream/westons_mansion/kambi_canyon2.ytyp'
+-- file "stream/paletogaragething/doorsounds_game.dat151.rel"
+client_script {'client/main.lua'}
+
+file 'data/bs_timecycmod.xml'
+
+data_file 'TIMECYCLEMOD_FILE' 'data/bs_timecycmod.xml'
+data_file 'SCALEFORM_DLC_FILE' 'stream/burgershot/int1756029552.gfx'
+
+data_file 'TIMECYCLEMOD_FILE' 'data/gabz_timecycle_mods_1.xml'
+data_file 'TIMECYCLEMOD_FILE' 'data/gabz_bennys_timecycle.xml'
+data_file 'DLC_ITYP_REQUEST' 'stream/sessantaclothingstore/mlo_losvendos.ytyp'
+
+-- Taxi
+data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_accs.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/ydr/gabz_lost_props.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/v_int_5.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_accs_01.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_animated_walls.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_cabinets.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_cards.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_casino.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_casinochips.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_casino_art_01.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_casino_art_02.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_casino_art_03.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'vw_prop_vw_casino_art_04.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'vw_prop_vw_casino_art_05.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'vw_prop_vw_collectibles.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'vw_prop_vw_disposal.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'vw_prop_vw_door_break.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'vw_prop_vw_machinery.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'vw_prop_vw_screens.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'vw_prop_vw_storage.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'vw_prop_vw_tables.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'vw_prop_vw_turntable.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/dono_houses/saintz_highlevel/malibu_mansion.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/portels_1a.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/portels_2a.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/portels_3a.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/portels_4a.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/paleto_garage_ytyp.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/paleto_garage_props.ytyp'
+
+data_file 'DLC_ITYP_REQUEST' 'stream/realtor_apartments/playerhouse_hotel/playerhouse_hotel.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/realtor_apartments/playerhouse_tier1/playerhouse_tier1.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/realtor_apartments/playerhouse_tier2/playerhouse_tier2.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/realtor_apartments/playerhouse_tier3/playerhouse_tier3.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/realtor_apartments/playerhouse_appartment_motel/playerhouse_appartment_motel.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/realtor_apartments/micheal_shell/micheal_shell.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/realtor_apartments/trevors_shell/trevors_shell.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/realtor_apartments/frankelientje/frankelientje.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/life_porte1.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/life_porteg1.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/patoche_elevator1.ytyp'
+
+-- DRUGS
+data_file 'DLC_ITYP_REQUEST' 'stream/drugshells/shellpropsv7.ytyp'
+
+data_file 'DLC_ITYP_REQUEST' 'stream/hideout/patoche_thug1.ytyp'
